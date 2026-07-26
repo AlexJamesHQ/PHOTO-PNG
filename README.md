@@ -50,3 +50,6 @@
 
 <h1 align="center"> VIVI MUSIC 
 <img width="640" height="640" alt="1000178140" src="https://github.com/user-attachments/assets/57374cfa-c583-4d77-8bcb-df7586aea52c" />
+<h1 align="center"> PixelPlayer
+<img width="278" height="278" alt="1000178141" src="https://github.com/user-attachments/assets/9defe655-a9a6-4966-bbd7-6e246f6f44ef" />
+
