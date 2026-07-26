@@ -56,8 +56,10 @@
 <img width="512" height="512" alt="1000178142" src="https://github.com/user-attachments/assets/47c6dfa1-b080-46cb-a88c-61d643dcedbb" />
 <h1 align="center">Telephoto
 <img width="150" height="150" alt="1000178144" src="https://github.com/user-attachments/assets/ccac26f2-dc9a-47aa-8cb4-a02280701e11" />
-<h1 align="center">ΛNᗪROIᗪ LΛᗷ<img width="640" height="640" alt="1000178145" src="https://github.com/user-attachments/assets/5b68cd2f-1980-42b5-a3e0-82fec84d75dd" />
-<h1 align="center">Zenith<img width="1080" height="1080" alt="1000178146" src="https://github.com/user-attachments/assets/91060032-15cb-408f-8a45-9f1454f5ef03" />
+<h1 align="center">ΛNᗪROIᗪ LΛᗷ
+<img width="640" height="640" alt="1000178145" src="https://github.com/user-attachments/assets/5b68cd2f-1980-42b5-a3e0-82fec84d75dd" />
+<h1 align="center">Zenith
+<img width="1080" height="1080" alt="1000178146" src="https://github.com/user-attachments/assets/91060032-15cb-408f-8a45-9f1454f5ef03" />
 
 
 
