@@ -67,11 +67,5 @@
 <h1 align="center">Antigravity
 <img width="736" height="678" alt="1000178153" src="https://github.com/user-attachments/assets/a299631d-d8f6-4c2d-be57-99ee948eabf1" />
 <h1 align="center">Visual Studio Code
-<img width="736" height="736" alt="1000178155" src="https://github.com/user-attachments/assets/f6833c7d-7311-4ed4-b261-53fe40592db3" />
-
-
-
-
-
-
+<img width="736" height="736" alt="1000178156" src="https://github.com/user-attachments/assets/2197a277-2264-4f8e-87ab-fc92d4b3a25f" />
 
