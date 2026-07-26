@@ -72,7 +72,7 @@
 <h1 align="center">REACT
 <img width="736" height="736" alt="1000178159" src="https://github.com/user-attachments/assets/d19cbe42-f60b-4b19-964c-2fa51d33f86e" />
 <h1 align="center">KOTLIN
-<img width="736" height="736" alt="1000178165" src="https://github.com/user-attachments/assets/21ac062a-9faa-432b-bb66-e6784a682d75" />
+<img width="1456" height="1408" alt="1000178168" src="https://github.com/user-attachments/assets/fb9e2ac7-bead-4861-98c3-01d6ac884324" />
 
 
 
