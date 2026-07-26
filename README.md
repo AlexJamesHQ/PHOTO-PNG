@@ -60,6 +60,9 @@
 <img width="640" height="640" alt="1000178145" src="https://github.com/user-attachments/assets/5b68cd2f-1980-42b5-a3e0-82fec84d75dd" />
 <h1 align="center">Zenith
 <img width="1080" height="1080" alt="1000178146" src="https://github.com/user-attachments/assets/91060032-15cb-408f-8a45-9f1454f5ef03" />
+<h1 align="center">Acode - Code Editor
+<img width="1600" height="1600" alt="1000178147" src="https://github.com/user-attachments/assets/09a81677-e46b-4182-830e-dc6522c323c6" />
+
 
 
 
