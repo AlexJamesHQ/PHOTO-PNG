@@ -62,6 +62,9 @@
 <img width="1080" height="1080" alt="1000178146" src="https://github.com/user-attachments/assets/91060032-15cb-408f-8a45-9f1454f5ef03" />
 <h1 align="center">Acode - Code Editor
 <img width="1600" height="1600" alt="1000178147" src="https://github.com/user-attachments/assets/09a81677-e46b-4182-830e-dc6522c323c6" />
+<h1 align="center">Roxum Ide
+![1000178150](https://github.com/user-attachments/assets/87f8274c-045e-4d9f-86b1-d56ad996ee40)
+
 
 
 
