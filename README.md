@@ -54,5 +54,8 @@
 <img width="278" height="278" alt="1000178141" src="https://github.com/user-attachments/assets/9defe655-a9a6-4966-bbd7-6e246f6f44ef" />
 <h1 align="center">Namida
 <img width="512" height="512" alt="1000178142" src="https://github.com/user-attachments/assets/47c6dfa1-b080-46cb-a88c-61d643dcedbb" />
+<h1 align="center">Telephoto
+<img width="150" height="150" alt="1000178144" src="https://github.com/user-attachments/assets/ccac26f2-dc9a-47aa-8cb4-a02280701e11" />
+
 
 
