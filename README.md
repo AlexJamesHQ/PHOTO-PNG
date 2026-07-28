@@ -45,6 +45,9 @@
 <a href="https://www.youtube.com/@ALEX-JAMES-8504">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
+<h1 align="center">ΛLΞX JΛMΞS ᗪEV 
+<img width="460" height="460" alt="1000163669" src="https://github.com/user-attachments/assets/1e567e29-cf52-4fc1-b638-48bc4de91b57" />
+
 <h1 align="center"> ArchiveTune 
 <img width="1280" height="1280" alt="1000178138" src="https://github.com/user-attachments/assets/b9af140a-68f6-4020-91b2-b37bfe147655" />
 
